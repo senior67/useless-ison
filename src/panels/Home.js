@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import bridge from "@vkontakte/vk-bridge";
-import { Panel, PanelHeader, Button, Group, Div, Card, CardGrid, Header, Text } from '@vkontakte/vkui';
+import { Panel, PanelHeader, Button, Group, Div, Card, CardGrid, Header, Text, Link } from '@vkontakte/vkui';
 /*import Panel from '@vkontakte/vkui/dist/components/Panel/Panel';
 import PanelHeader from '@vkontakte/vkui/dist/components/PanelHeader/PanelHeader';
 import Button from '@vkontakte/vkui/dist/components/Button/Button';
