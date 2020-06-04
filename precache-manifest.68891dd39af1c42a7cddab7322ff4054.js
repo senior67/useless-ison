@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0abce8d6305cbda6e725be6cdc0db5be",
+    "revision": "5df2b9a8368c42a43f92c3fafa9a53d9",
     "url": "/useless-ison/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/useless-ison/static/css/2.814df5ce.chunk.css"
   },
   {
-    "revision": "b105cecd4991dbe5cc1f",
+    "revision": "cb091ebb980e84e2be0d",
     "url": "/useless-ison/static/css/main.981f7211.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/useless-ison/static/js/2.0759271b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b105cecd4991dbe5cc1f",
-    "url": "/useless-ison/static/js/main.9203718a.chunk.js"
+    "revision": "cb091ebb980e84e2be0d",
+    "url": "/useless-ison/static/js/main.0b975ecf.chunk.js"
   },
   {
     "revision": "a5f10bf920981025a1d4",
