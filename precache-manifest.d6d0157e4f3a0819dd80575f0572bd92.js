@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cad55747af78926996feb7913f79a366",
+    "revision": "f6801bca0e1e54186249cc25dec98fad",
     "url": "/useless-ison/index.html"
   },
   {
-    "revision": "137021580cc0ebf17490",
+    "revision": "5ae6e8631be99069eca4",
     "url": "/useless-ison/static/css/2.814df5ce.chunk.css"
   },
   {
-    "revision": "515a4883f3c6847cc9af",
+    "revision": "048ffa8436c85fb069a6",
     "url": "/useless-ison/static/css/main.981f7211.chunk.css"
   },
   {
-    "revision": "137021580cc0ebf17490",
-    "url": "/useless-ison/static/js/2.a327b906.chunk.js"
+    "revision": "5ae6e8631be99069eca4",
+    "url": "/useless-ison/static/js/2.389ccfc5.chunk.js"
   },
   {
     "revision": "21ced859ea2b2d6b856d461ad6c2afed",
-    "url": "/useless-ison/static/js/2.a327b906.chunk.js.LICENSE.txt"
+    "url": "/useless-ison/static/js/2.389ccfc5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "515a4883f3c6847cc9af",
-    "url": "/useless-ison/static/js/main.c2af53f8.chunk.js"
+    "revision": "048ffa8436c85fb069a6",
+    "url": "/useless-ison/static/js/main.45fcda17.chunk.js"
   },
   {
     "revision": "a5f10bf920981025a1d4",
