@@ -30,7 +30,7 @@ const Home = ({ id, go, fetchedUser }) => (
 					Вступить в группу с бесполезными скриптами
 				</Button>
 				<br /><br />
-				<Link href="https://vk.com/uselesssenior">*разработчик - бесполезный сеньор*</Link>
+				<center><Link href="https://vk.com/uselesssenior">*разработчик - бесполезный сеньор*</Link></center>
 				</Group>
 			</Div>
 		</Group>
