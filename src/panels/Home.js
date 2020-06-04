@@ -20,7 +20,7 @@ const Home = ({ id, go, fetchedUser }) => (
 					<CardGrid>
 						<Card size="l" mode="shadow">
 							<br /><center><Text weight="regular">Это приложение - из серии приложений «Useless Senior» (Бесполезный Сеньор). В данном приложении вы можете узнать, включено ли устройство, с которого вы посещаете наше приложение.</Text><br /><br /><Text weight="medium">Мы запускаем челлендж - опубликуйте на своей стене ВКонтакте предложенный ниже пост, чтобы сказать всем, что Ваше устройство включено, а также дайте возможность вашим друзьям проверить статус вашего устройства!</Text><br />
-				<Button mode="commerce" onClick={() => bridge.send("VKWebAppShowWallPostBox", {"message": "Благодаря приложению мне стало известно, что моё устройство включено!\n\nПопробуй и ты! Ссылка на проверку - https://vk.cc/av6cA2", "attachments": "photo-196019037_457239021"})}>
+				<Button mode="commerce" onClick={() => bridge.send("VKWebAppShowWallPostBox", {"message": "Благодаря приложению мне стало известно, что моё устройство включено!\n\nПопробуй и ты! Ссылка на проверку - https://vk.cc/av6cA2\n\n#СамыйГлупыйЧеллендж #МойДевайсВключен", "attachments": "photo-196019037_457239021"})}>
 					Присоединиться к флешмобу
 				</Button>
 					</center><br />
