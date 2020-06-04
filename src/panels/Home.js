@@ -13,7 +13,7 @@ import Div from '@vkontakte/vkui/dist/components/Div/Div';
 const Home = ({ id, go, fetchedUser }) => (
 	<Panel id={id}>
 		<PanelHeader>Включен ли девайс?</PanelHeader><br />
-		<center><Text weight="semibold" style={{ marginBottom: 16, fontSize: 50, color: 'green' }}>Да</Text><br /><Text weight="semibold" style={{ marginBottom: 16, fontSize: 35, color: 'green' }}>ваше устройство включено</Text></center>
+		<center><Text weight="semibold" style={{ marginBottom: 16, fontSize: 50, color: 'green' }}>Да</Text><Text weight="semibold" style={{ marginBottom: 16, fontSize: 20, color: 'green' }}>ваше устройство включено</Text></center>
 		<Group title="#СамыйГлупыйЧеллендж">
 			<Div>
 				<Group separator="hide" header={<Header mode="secondary">#СамыйГлупыйЧеллендж</Header>}>
