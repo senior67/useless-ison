@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/useless-ison/static/css/main.981f7211.chunk.css",
-    "main.js": "/useless-ison/static/js/main.91ecd049.chunk.js",
-    "main.js.map": "/useless-ison/static/js/main.91ecd049.chunk.js.map",
+    "main.js": "/useless-ison/static/js/main.800f7a2d.chunk.js",
+    "main.js.map": "/useless-ison/static/js/main.800f7a2d.chunk.js.map",
     "runtime-main.js": "/useless-ison/static/js/runtime-main.f05c5079.js",
     "runtime-main.js.map": "/useless-ison/static/js/runtime-main.f05c5079.js.map",
     "static/css/2.814df5ce.chunk.css": "/useless-ison/static/css/2.814df5ce.chunk.css",
     "static/js/2.1f64fe13.chunk.js": "/useless-ison/static/js/2.1f64fe13.chunk.js",
     "static/js/2.1f64fe13.chunk.js.map": "/useless-ison/static/js/2.1f64fe13.chunk.js.map",
     "index.html": "/useless-ison/index.html",
-    "precache-manifest.47641dca515458e4d9e302a5b609ec0c.js": "/useless-ison/precache-manifest.47641dca515458e4d9e302a5b609ec0c.js",
+    "precache-manifest.3ae978210c7b1f5b19c392d33b4143c9.js": "/useless-ison/precache-manifest.3ae978210c7b1f5b19c392d33b4143c9.js",
     "service-worker.js": "/useless-ison/service-worker.js",
     "static/css/2.814df5ce.chunk.css.map": "/useless-ison/static/css/2.814df5ce.chunk.css.map",
     "static/css/main.981f7211.chunk.css.map": "/useless-ison/static/css/main.981f7211.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.814df5ce.chunk.css",
     "static/js/2.1f64fe13.chunk.js",
     "static/css/main.981f7211.chunk.css",
-    "static/js/main.91ecd049.chunk.js"
+    "static/js/main.800f7a2d.chunk.js"
   ]
 }
