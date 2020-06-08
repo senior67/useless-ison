@@ -14,7 +14,7 @@ import Div from '@vkontakte/vkui/dist/components/Div/Div';
 const promoBannerProps = {
 	title: 'Здесь может быть ваша реклама! (от 30р./сутки)',
 	domain: 'vk.com',
-	trackingLink: 'https://vk.com/uselesssenior?w=product-196019037_3984468%2Fquery',
+	trackingLink: 'https://vk.com/market-196019037?w=product-196019037_3984468',
 	ctaText: 'Заказать',
 	advertisingLabel: 'Реклама',
 	iconLink: 'https://sun1-99.userapi.com/PC1w13YZAuKO9MlopsiOk1eVhfXH1zlWG9ncXA/jPEouoSyx70.jpg',
@@ -50,11 +50,9 @@ const Home = ({ id, go, fetchedUser }) => (
 				</Group>
 			</Div>
 		</Group>
-		<Group title="Закажи рекламу здесь!">
-			<FixedLayout vertical="bottom">
-				<PromoBanner bannerData={promoBannerProps} />
-			</FixedLayout>
-		</Group>
+		<FixedLayout vertical="bottom">
+			<PromoBanner bannerData={promoBannerProps} />
+		</FixedLayout>
 	</Panel>
 );
 
